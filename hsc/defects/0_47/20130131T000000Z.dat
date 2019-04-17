@@ -4,7 +4,7 @@
 # Convert to a fits table using genDefectFits.py;  this is done for you by running scons
 #
 # Columns are:
-#  CCD     x0     y0  width height
+#  x0      y0      width   height
 #
 # Common edge masks
      996        0       56       24
@@ -15,5 +15,4 @@
     2027        0       21     4176
        0     4047       37      129
 # Bad pixels, Dead amps, Edge glows
-### we may comment out the ccd=0 mask until 2014-06-01 per SS' report
     1261        0        5     4176
