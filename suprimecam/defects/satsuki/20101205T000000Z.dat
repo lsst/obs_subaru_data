@@ -1,0 +1,7 @@
+# x0 y0 width height
+       0        0     2048        5 #  Bottom
+       0     4172        3     4177 #  Left side
+    2045        0        3     4177 #  Right side
+    1019        0        2       64 #  Nasty at top
+    1027        0        2       64 #  Nasty at top
+    1019        0       10        2 #  Nasty at top
