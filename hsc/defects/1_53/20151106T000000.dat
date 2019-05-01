@@ -4,7 +4,7 @@
 # Convert to a fits table using genDefectFits.py;  this is done for you by running scons
 #
 # Columns are:
-#  x0      y0      width   height
+#  CCD     x0     y0  width height
 #
 # Common edge masks
      996        0       56       24
