@@ -1,8 +1,0 @@
-# Copy of defects to apply if data taken before nominal start
-# x0 y0 width height
-       0     4172     2048        5 #  Top
-       0        0        3     4177 #  Left side
-    2045        0        3     4177 #  Right side
-    1019        0        2       64 #  Nasty at bottom
-    1027        0        2       64 #  Nasty at bottom
-    1019        0       10        2 #  Nasty at bottom
