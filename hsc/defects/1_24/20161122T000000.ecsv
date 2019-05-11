@@ -23,12 +23,12 @@
 # - DETECTOR: 74
 # - CALIBDATE: '2016-11-22T00:00:00'
 # - FILTER: null
-# - CALIB_ID: detector=74 calibDate=2016-11-22T00:00:00 ccd={chip_id} ccdnum={chip_id} filter=None
+# - CALIB_ID: detector=74 calibDate=2016-11-22T00:00:00 ccd=74 ccdnum=74 filter=None
+# - DATE: '2019-05-10T19:31:23.388409'
+# - CALIB_CREATION_DATE: '2019-05-10'
+# - CALIB_CREATION_TIME: '19:31:23'
 # - DEFECTS_SCHEMA: Simple
 # - DEFECTS_SCHEMA_VERSION: 1
-# - DATE: '2019-05-09T18:32:07.349087'
-# - CALIB_CREATION_DATE: '2019-05-09'
-# - CALIB_CREATION_TIME: '18:32:07'
 # schema: astropy-2.0
 x0 y0 width height
 996 0 56 24
